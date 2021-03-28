@@ -3,7 +3,7 @@ ns3-gym_Ubuntu_16.04_LTS
 
 ns3-gym_without_src
 
-This file only works on Ubuntu 16.04 LTS
+This file only works on Ubuntu 16.04 LTS\n
 The src file can be downloaded from www.nsnam.org
 
 # REFERENCE
